@@ -4,6 +4,6 @@ module.exports = {
 
   development: {
     client: 'pg',
-    connection: 'postgres://localhost/crudsticker'
+    connection: 'postgres://localhost/stickerdb'
   }
 };
